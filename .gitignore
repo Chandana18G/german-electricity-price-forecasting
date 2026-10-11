@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+# Raw weekly downloads (rebuilt by smard.py); the snapshot data/smard_hourly.csv.gz is kept
+data/cache/
